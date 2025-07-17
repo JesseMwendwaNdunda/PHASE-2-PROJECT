@@ -1,3 +1,4 @@
+
 import NavBar from "./NavBar"
 
 function App() {
@@ -5,6 +6,23 @@ function App() {
   return (
     <NavBar />
      
+
+
+import Footer from "./Footer"
+
+function App() {
+
+  return (
+    Footer
+
+
+
+function App() {
+  
+
+  return (
+    
+
   )
 }
 
