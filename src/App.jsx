@@ -1,4 +1,13 @@
 
+import NavBar from "./NavBar"
+
+function App() {
+
+  return (
+    <NavBar />
+     
+
+
 import Footer from "./Footer"
 
 function App() {
@@ -13,6 +22,7 @@ function App() {
 
   return (
     
+
   )
 }
 
